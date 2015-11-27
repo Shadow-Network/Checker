@@ -6,6 +6,6 @@
 #Declined/Approved messages 
 #Accepting all type of cards
 
-### How to use: Create a account on stripe.com, get your API keys and put then on config.php, use the way you want.
+### How to use: Create a account on stripe.com, get your API keys and put them on config.php, use the way you want.
 
 Special thanks to FrozenHeart
